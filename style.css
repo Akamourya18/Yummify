@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #ece9e6;
+  background: #d9d7d5;
   background: -webkit-linear-gradient(to right, #ffffff, #ece9e6);
   background: linear-gradient(to right, #ffffff, #ece9e6);
   display: flex;
@@ -22,7 +22,7 @@ img {
 
 .mobile-container {
   background-color: #fff;
-  box-shadow: 0 0 10px 2px #3333331a;
+  box-shadow: 0 0 10px 2px #2e2d2d1a;
   border-radius: 3px;
   overflow: hidden;
   width: 400px;
