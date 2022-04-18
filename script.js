@@ -155,7 +155,7 @@ function showMealInfo(mealData) {
   // clean it up
   mealInfoEl.innerHTML = '';
 
-  // update the Meal info
+  // update the Meal inf
   const mealEl = document.createElement('div');
 
   const ingredients = [];
